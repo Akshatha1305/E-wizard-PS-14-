@@ -1,4 +1,8 @@
 # E-wizard-PS-14-
+# Protection of Passwords using SGX 
+# Scope: Developing an authorization module in Linux with and without SGX, and observe different OS level security protections. 
+# Pre-requisite: Understanding of OS principles related to memory management and page tables in Linux. Programming in any language suited for System Software like C, C++, Python, etc.
+      
 We, Akshatha, Indhu, Deepthi, Mohith, and Jayanth, from Global Academy of Technology, are honored to participate in the Intel Unnati Industrial Training Program. As part of this prestigious initiative, we were assigned the challenging project of implementing password protection using Intel Software Guard Extensions (SGX).
 
 Initially, we faced a significant challenge due to the lack of adequate resources to fully execute our project. On guidance from Intel Unnati Team, we reached out to NITTE Meenakshi College for assistance. They graciously provided us access to a virtual Xeon server, a critical resource for our project's success.
