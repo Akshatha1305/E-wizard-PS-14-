@@ -14,13 +14,13 @@ from cryptography.hazmat.primitives import padding, hashes
 from cryptography.hazmat.primitives.kdf.scrypt import Scrypt
 from cryptography.hazmat.primitives.hmac import HMAC
 
-# Constants
-USER_DB_FILE = "/home/gat/intel/password.txt"
-RESET_TOKEN_FILE = "/home/gat/intel/reset.txt"
-MAX_USERS = 20
-LOCKOUT_TIME = 60 * 60  
 
-# Globals
+USER_DB_FILE = "password.txt"
+RESET_TOKEN_FILE = "reset.txt"
+MAX_USERS = 20
+LOCKOUT_TIME = 5 * 60  
+
+
 failed_attempts = {}
 lockout_timestamps = {}
 
@@ -114,7 +114,7 @@ def load_users() -> dict:
     return users
 
 def generate_reset_token(username: str) -> str:
-    """Generate a secure token for password reset and store it temporarily."""
+   
     token = str(uuid.uuid4())
     try:
         with open(RESET_TOKEN_FILE, 'a') as f:
@@ -127,7 +127,7 @@ def generate_reset_token(username: str) -> str:
     return token
 
 def validate_reset_token(username: str, token: str) -> bool:
-    """Validate the reset token for the given username."""
+    
     if not os.path.exists(RESET_TOKEN_FILE):
         return False
     
@@ -144,7 +144,7 @@ def validate_reset_token(username: str, token: str) -> bool:
     return valid
 
 def encrypt_file(input_file: str, output_file: str, password: str):
-    """Encrypts the input file using AES encryption with the given password."""
+   
     try:
         with open(input_file, 'rb') as f:
             file_data = f.read()
@@ -152,7 +152,7 @@ def encrypt_file(input_file: str, output_file: str, password: str):
         print(f"Failed to read input file: {e}")
         return
 
-    # Simulate language change by encoding to utf-8 (can be replaced with actual translation logic)
+    
     try:
         file_data = file_data.decode('utf-8', errors='ignore').encode('utf-8')
     except Exception as e:
@@ -170,7 +170,7 @@ def encrypt_file(input_file: str, output_file: str, password: str):
         padded_data = padder.update(file_data) + padder.finalize()
         ct = encryptor.update(padded_data) + encryptor.finalize()
 
-        # Append HMAC for integrity
+        
         hmac_value = generate_hmac(key, iv + ct)
         encrypted_data = iv + ct + hmac_value
 
@@ -269,7 +269,7 @@ def main():
                 self.create_widgets()
 
             def create_widgets(self):
-                # Stylish title
+                
                 title = tk.Label(self, text="Secure File Encryption System", bg='black', fg='white', font=('Helvetica', 24, 'bold'))
                 title.pack(pady=20)
 
@@ -284,7 +284,7 @@ def main():
                 self.password_entry = tk.Entry(form_frame, font=('Helvetica', 14), show='*')
                 self.password_entry.grid(row=1, column=1, padx=10, pady=5)
 
-                # Show Password Checkbox
+                
                 self.show_password_var = tk.IntVar()
                 show_password_check = tk.Checkbutton(form_frame, text="Show Password", bg='black', fg='white', font=('Helvetica', 12), variable=self.show_password_var, command=self.toggle_password)
                 show_password_check.grid(row=2, columnspan=2)
@@ -296,7 +296,7 @@ def main():
                 tk.Button(button_frame, text="Login", command=self.login_user, font=('Helvetica', 14, 'bold'), bg='white', fg='black').grid(row=0, column=1, padx=10, pady=5)
                 tk.Button(button_frame, text="Forgot Password", command=self.forgot_password, font=('Helvetica', 14, 'bold'), bg='white', fg='black').grid(row=0, column=2, padx=10, pady=5)
 
-                # Instructional text
+               
                 instructions = (
                     "Username should be unique and max 20 characters.\n"
                     "Password should be at least 8 characters long, contain:\n"
