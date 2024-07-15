@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<EnclaveConfiguration>
+    <ProdID>0</ProdID>
+    <ISVSVN>0</ISVSVN>
+    <StackMaxSize>0x40000</StackMaxSize> <!-- 256KB -->
+    <HeapMaxSize>0x100000</HeapMaxSize> <!-- 1MB -->
+    <TCSNum>1</TCSNum>
+    <TCSPolicy>1</TCSPolicy>
+    <DisableDebug>0</DisableDebug> <!-- Allows debugging -->
+    <Debug>1</Debug> <!-- Enables debug mode -->
+    <MiscSelect>0</MiscSelect>
+    <MiscMask>0xFFFFFFFF</MiscMask>
+</EnclaveConfiguration>
+

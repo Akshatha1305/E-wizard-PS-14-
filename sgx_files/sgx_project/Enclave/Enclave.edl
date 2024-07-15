@@ -1,0 +1,9 @@
+enclave {
+    trusted {
+        public void run_python_script();
+    };
+
+    untrusted {
+        void ocall_run_system_command([in, string] const char* cmd);
+    };
+};
