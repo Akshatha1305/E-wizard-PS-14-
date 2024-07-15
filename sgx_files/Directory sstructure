@@ -1,0 +1,10 @@
+sgx_project/
+├── App/
+│   ├── App.cpp
+│   ├── Makefile
+├── Enclave/
+│   ├── Enclave.cpp
+│   ├── Enclave.edl
+│   ├── Makefile
+├── sgx_t.mk
+├── sgx_u.mk 
