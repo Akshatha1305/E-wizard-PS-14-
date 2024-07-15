@@ -9,3 +9,4 @@ Initially, we faced a significant challenge due to the lack of adequate resource
 
 However, the process was not straightforward. Accessing and utilizing the virtual Xeon server presented its own set of difficulties. Despite these challenges, we remained dedicated and persistent in our efforts. We collaborated closely, leveraging each team member's strengths, and worked diligently to overcome the technical barriers we encountered.
 
+As we had virtual xeon server, we couldn't get X11 forwarding to run our container for 'WITH SGX'. Thus, we saved diectly the python file inside the enclave and performed memory dump on it. 
