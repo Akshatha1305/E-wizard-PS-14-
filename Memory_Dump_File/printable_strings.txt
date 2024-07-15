@@ -1,0 +1,1678 @@
+K7400
+VIDEO 
+IBM VGA Compatible
+R05/08/19
+PMID
+PG160 SKU500 VGA BIOS 
+Version 90.04.62.00.05 
+Copyright (C) 1996-2019 NVIDIA Corp.
+GPU Board
+Chip Rev   
+PCIR
+NPDE
+JnF	
+gN({Q
+04/11/19
+8500G1600500
+Q$MhFv
+(	!	C
+U	U	j
+(	!	C
+U	U	,
+U	U	
+@t8V
+0r	f.
+fRf.
+fRf3
+fRf3
+$FQ.
+Vu5Q.
+nFf.
+f.#E
+f.;E
+I1Ys	
+[_f.
+fSf.
+fRf.
+."4F.
+t	QN
+^_Y[t
+PSQW
+_Y[X
+FFV=
+fSfQf.
+{!t*f
+c	f^fYf[
+PSQRP
+ZY[X
+ ! 1 
+@!@1@
+>PfRfWfQf
+f_fZX
+fPfVf
+,f^fX
+fPfVf
+,f^fX
+fPfRfQ
+fZfX
+qZY[
+PSfQR
+nhca
+zP a
+qZfY[X
+fPfSfRfV
+*f^fZf[fX
+QfVfP
+SVP2
+fPfSfQfV
+)f^fYf[fX
+fPfSfQfV
+)f^fYf[fX
+fPfVf
+r)f^fX
+PSQfRfV
+f^fZY[X
+SVfW
+Xf_^[
+XZu~
+(^ZYX
+ndwXqXq
+PSQRfV
+f^ZY[X
+SQRV
+^ZY[
+fQW2
+P<Pr
+QfRVP
+^fZY
+^_`QSfP
+%3pt
+PSQV
+@H^Y[X
+PfVfWf3
+f_f^X
+fRf.
+PQS3
+QRP2
+fRfP
+Gu,f
+PSQR
+ZY[X
+ff|bfofff
+g_OP
+89:;<=>?
+Build Date:    
+Revision Date: 
+89:;<=>?
+f=KDASfX
+fVfP
+fXf^
+fVfP
+fXf^
+fPfSQf
+Yf[fX
+ `h!ph"
+h<0tT`
+q_ZX
+qZ[X
+PRVfW
+f_^ZX
+fVfPfQfRf
+fZfYfXf^
+PfQW
+_fYX
+fPfVf
+f^fX
+fPfVf
+f^fX
+A0B1
+fPSfQfVf3
+u"f%
+f^fY[fX
+fPfSfV
+@uAf
+f^f[fX
+PRfV
+f^ZX
+fPfSQfRfVW
+_f^fZYf[fX
+fPfV
+f^fX
+fPfSQfRfW
+f_fZYf[fX
+fPfSfRfV
+f^fZf[fX
+fPfSfQfRfW
+f_fZfYf[fX
+fPfSfRfWf
+f_fZf[fX
+fPfSfW
+t"f;
+f_f[fX
+fPfSfRfW
+f_fZf[fX
+fQf3
+fQf3
+PRfV
+f^ZX
+fPfRfV
+Y[s$f
+f^fZfX
+fPQfWf
+f_YfX
+fPSfRf
+fZ[fX
+PSRW
+rqSV2
+r:Ju
+_Z[X
+[r@P
+fPfV
+f^fX
+fRfV
+f^fZ
+fPQW
+t&f.
+_YfX
+PQfR
+PCI t
+fZYX
+fPR.
+fPQR
+ZYfX
+RfPf
+RfPf
+ru2_
+ru3_
+ru4_
+rqfVf
+thQVSfP
+tcQVW
+VfPR
+ZfX^
+VfPR
+ZfX^
+PLEASE POWER DOWN AND CONNECT THE PCIe POWER CABLE(S) FOR THIS GRAPHICS CARD
+@A*A
+NVIDIA
+NVIDIA Corporation
+BIOS Certificate Check Failed!!!
+TUfV2WDX
+X^|^,`P`
+0XC 8xV
+*@0p
+P2t@
+n@ea
+Qqn8
+8qA#
+SLTkT@
+lU|U
+lU|U
+:::3:
+:::3:
+A[HVqX
+:::3:
+:::3:
+[BR[
+A[HVqz
+a`???3z
+a@???3z 
+[uR[
+A[HVqX
+???3<
+A[HVqn0
+:::3:
+:::3:
+[BR[
+???3<
+[uR[
+???3<
+Wqn0
+JWZW
+JWZW
+:::3:
+:::3:
+B[&XqX
+:::3:
+:::3:
+[BR[
+B[&Xqz
+a`???3z
+a@???3z 
+[uR[
+B[&XqX
+???3<
+B[&Xqn0
+VXfX
+:::3:
+:::3:
+[BR[
+???3<
+[uR[
+???3<
+Xqn0
+(Y8Y
+(Y8Y
+:::3:
+:::3:
+:::3:
+:::3:
+[BR[
+a`:::3z
+a@???3z 
+[uR[
+???3<
+Zqn0
+4ZDZ
+Q[3fX
+'''''
+[L[q[3fX
+'''''
+[L[q[3fX
+'''''
+[L[q[3fX
+'''''
+[L[qn
+[qqqn
+]rq:
+qqn0
+_[_\[
+\q[_\[
+r[~]q[=^n0
+q[=^n0
+q[=^n0
+q[=^n0
+q[=^n0
+q[=^n0
+q[=^n0
+q[=^n0
+t`x`
+t`x`	
+t`x`	
+t`x`
+t`x`
+t`x`	
+t`x`	
+t`x`
+a[_\[
+\q[_\[
+r[~]q[=^n0
+q[=^n0
+q[=^n0
+q[=^n0
+q[=^n0
+q[=^n0
+q[=^n0
+q[=^n0
+HbLb
+HbLb	
+HbLb	
+HbLb
+HbLb
+HbLb	
+HbLb	
+HbLb
+bN]vb
+b<d+dMd
+c[_\[
+\qq:
+r[~]q[=^n0
+q[=^n0
+q[=^n0
+q[=^n0
+e[Gen
+q[3fn
+e[GenT
+q[7fquE[Bf8[GfrqVF
+qqqn@ea
+(#(#
+`Pbcb
+3!	D'
+fPSQRfV
+f^ZY[fX
+fPSQfV
+f^Y[fX
+PSQR.
+ZY[X
+'/7?-16:?
+j{j{j{j
+k{j{j{j{j{j{j<k{jfk
+l3l<
+SQRW
+_ZY[
+m 6m0Jm1nm2
+PnPnPnQnQnQn
+n`PS
+@o@o@oAoAoAoeooo
+oQRPS
+fRfPfQf3
+fXfZ
+;q4q
+gSQRWU
+]_ZY[
+g,r,r,rgsgsgs`
+XPR*
+XPR*
+SfQRU
+]ZfY[
+SfQRVU
+]^ZfY[
+PSRW
+-S	-P
+_Z[X
+uXSQRW
+_ZY[
+t>SRW
+D=@u7
+VESA
+=VBu	&
+SQRUW
+_]ZY[
+t-H<
+Y_^I
+fPSfV
+f^[fX
+r#PS
+BBf+
+SQRfVfP
+f^ZY[
+s+fP3
+E&f6
+fPQfRW
+t/f.
+u'fRf
+_fZYfX
+PQW3
+VWPS
+QVPS
+PSfQV3
+^fY[X
+PRfW
+f_ZX
+PRfW
+f_ZX
+PSQfW
+f_Y[X
+PQRW
+_ZYX
+,(-)*.
+89:;<=>?
+ $(-28?
+-2 $8?
+PRVW
+_^ZX
+PSRVW
+_^Z[X
+PSQRVW
+_^ZY[X
+PWR.
+`?@ 
+ =@ 
+P$MTe]
+P$MTe]
+P$MTe]
+rYWWsM
+c;77d
+qfPfRfV6
+u8f6
+f^fZfX
+uXf6
+Qt@v
+fPSW2
+_[fX
+<`u#f&
+fPSQR6
+u,<Gt(6
+ZY[fX
+PSVWQ6
+Y_^[X
+PSQ2
+fPfV
+f^fX
+fPQfV
+f^YfX
+PSQV
+^Y[X
+SQfW
+f_Y[
+]y_Z
+u&fQf
+{XfYu
+}nX[
+Qb-b
+qAB[
+PSVW
+_^[X
+PSRV
+PSQRW
+l_ZY[X
+r:P2
+PSQV
+a]^Y[X
+fPSfQfRfW
+f_fZfY[fX
+PSQR
+ZY[X
+fPSR
+Z[fX
+<EfX
+fPSfV
+f^[fX
+fPfV
+f^fX
+SfWf
+qf_[
+fPfV
+f^fX
+fPSRfV
+f^Z[fX
+fPSfV2
+f^[fX
+fPRfV
+f^ZfX
+fPRfVf
+f^ZfX
+fPSQfRfV
+f^fZY[fX
+QR^_`SQ3
+fPfVQ
+t*f%
+Yf^fXP
+KqY[X
+cV^6
+.:$u
+YU^6
+.:$u
+9T^6
+fPQfR3
+~f[r
+fZYfX
+fPRf6
+fPSRf
+6:,t
+6:,Z[fX
+fPSQRf
+ZY[fX
+PQWV
+^_YX
+SWUW
+fPSQRWU
+]_ZY[fX
+fPVfW
+zf_^fX
+SQfR
+fZY[
+PSQfW
+qf_Y[X
+fPSQfW
+qf_Y[fX
+fPf6
+C_ZX6:
+fPSQf6
+Y[fX
+[C6:
+fPSQfVW
++N,0
+q_f^Y[fX
+fPQfR6
+wJf=
+fZYfX
+fPfSfV
+u&f6
+f^f[fX
+fVfS
+f[f^
+fSQR
+u&f6
+s0fP
+ZYf[
+fPfVf
+f^fX
+E&ZX
+PSfWf
+qf_[X
+fPf3
+J Pea
+fPSQRfVW
+_f^ZY[fX
+<GfX
+PSQR
+ZY[X
+rhf6
+qY[X
+fPQRW
+_ZYfX
+fPSQR
+ZY[fX
+PSQVW
+t8f6
+t(f6
+_^Y[X
+n@ea
+qY[X
+fPfQfRVW
+tVrTf6
+tDrB
+r-f;
+r(f6
+_^fZfYfX
+fQf6
+fXfY
+fPfHf6
+f@f6
+fYf3
+fPSfQfRVW
+3_s@
+_^fZfY[fX
+<fBBf<
+x<fff<
+?3?00p
+fffff
+>c8ll8
+0xx00
+8l8v
+0```0
+0p0000
+ff|ff
+lfffl
+bhxhb
+bhxh`
+x00000x
+flxlf
+```bf
+ff|``
+ff|lf
+0000x
+l88l
+x00x
+x`````x
+``|ff
+`lvff
+p000x
+`flxl
+p00000x
+ff|`
+0|004
+<f~`<
+p000x
+p000x
+<ff<
+p000x
+<ll>
+8ll8
+6666
+66666666666
+66666
+6666
+666676666670?
+?0766666
+66666707666
+6666
+6666666?
+?6666666
+lllll
+ffff|`
+8ll8
+xllll
+<<<<
+<fBBf<
+<ffff<
+?3?0000p
+ccccg
+fffffff
+88||
+||88
+fff$
+8ll8v
+000`
+000000
+0000
+fff|ffff
+lffffffl
+fbhxh`bf
+fbhxh```
+fflxxlff
+``````bf
+fff|````
+fff|lfff
+l|88|l
+ffff<
+<00000000<
+``xlffff|
+8ld`
+````
+``lvffff
+``flxxlf
+ffffff
+fffff|``
+vf```
+00006
+fffff<
+l888l
+<f``f<
+f`|``f
+<f```f<
+8ld`
+````
+ffffff
+<ll>
+8ll8
+6666666
+66666666
+66666666
+66666
+666666666666666666666666
+6666666666666
+6666666
+66666667666666666666670?
+?076666666666666
+666666666666670766666666
+66666
+66666666
+6666666
+666666666666666?
+?666666666666666
+66666666
+lllllll
+fffff|``
+<fff<
+llll
+>ffff<
+0``|```0
+8ll8
+lllll
+|||||||
+UNDI
+b0`PCIR
+PCIR
+$PnP
+Copyright (C) 1997-2013, Intel Corporation
+Initializing Intel(R) Boot Agent CL v0.1.10
+IBA CL Slot 00FE v0110
+PXE 2.1 Build 092 (WfM 2.0)
+RPL!
+0<9v
+Yf[2
+f^]2
+b0`08
+SQfRWV
+PXE-EC1: Base-code ROM ID structure was not found.
+=$BC$u
+=$BC$
+PXE-M0E: Retrying network boot; press ESC to cancel.
+^_fZY[
+fRSfP&
+fX[fZ
+fPfSfWfUj
+PXE-E20: BIOS extended memory copy error.
+PXE-EC6: UNDI driver image is invalid.
+PXE-EC8: !PXE structure was not found in UNDI driver code segment.
+PXE-EC9: PXENV+ structure was not found in UNDI driver code segment.
+PXE-EC3: BC ROM ID structure is invalid.
+PXE-E20: BIOS extended memory copy error.  AH == 
+DJf&
+&(D	
+fSVW
+_^f[
+f]f_f[fX
+PXE-M0F: Exiting Intel Boot Agent.
+usfPf.
+f&;E
+wJf&
+s@fPf.
+fPf&
+fXf&
+f&;E
+Loading the Boot image failed
+Press Ctrl+T to try again
+fSQfRW
+<!PXEt
+.;60
+D2f&
+<PXENt
+.;60
+&(D	
+_fZYf[]
+	Pfj
+SXf%
+fZfYf[f
+Speed/duplex are forced
+fPfSfQ
+?_SM_t
+It#gf
+=$PnPu
+C&:]
+fYf[fX
+fPfSfRfW
+f_fZf[fX
+fPfQfRfW
+$LKb
+!fSfQf.
+fYf[[Zf^
+$fSfQf.
+fYf[[Zf^
+fVfS
+fPf&
+fXfPf&
+fXf[f&
+f[f^
+fVfS
+fPf&
+fXfPf&
+fXf[f&
+f[f^
+WfSfP
+fXf[_
+WfSfP
+fXf[_
+fPfSfQfRVWU
+fPfSfQfR
+fZfYf[
+fXf&
+]_^fZfYf[fX
+fPfWfS
+fPgf&
+fXgf&
+Ugf&
+fXgf&
+fXgf&
+fXgf&
+fXgf&
+f[f_fX
+0040
+$SBC
+$SBF
+$CSM
+000000
+_DELL_GPE_
+0fAf
+No Boot Device Found. Press any key to reboot the machine
+Selected boot device failed. Press any key to reboot the system.
+fPRf
+RfPf
+RfPf
+fPfR
+fZfX
+PSQRS
+ZY[X
+_DELL_ENTRY_
+_DELL_BOOT_
+_DELL_DATA_
+$OEM$FUN
+$OEM$END
+ungH
+ KvH
+Generic-SD/MMC CRW 1.00
+USB Storage
+.:$u
+SfQfW
+ tifRfQfW
+wWf&
+f_fYfZ
+f_fY[
+f_fYfZ
+SfQfW
+ tgfRfQfW
+w0f&
+f_fYfZ
+f_fY[
+f_fYfZ
+fPfSfQ
+fYf[fX
+fQfR
+fZfYX
+|4 u
+fSfQRVW
+D/$?
+RPfY
+RPf[f
+ tRW
+rvf6
+D'f&
+D9f&
+w3f&
+_^ZfYf[
+dSR6
+T+fSf6
+u6SR6
+fPf6
+D0fX
+XfS6
+D9f6
+t&f6
+fSfQRVW
+fSfd
+ tXWV
+wGf&
+_^ZfYf[
+XY_&
+E ,f&
+E$PCI f&
+E(USB f&
+E,    S
+t".8
+}2[&
+U8W3
+SQRW
+_ZY[
+ tLW
+tKf&
+fPfSfV
+f^f[fX
+NVME Storage
+.:$u
+fQfR
+fZfYX
+D	f&
+D	f.
+fSfQRVW
+D-$?
+RPf[f
+ tRW
+r_f6
+D%f&
+D7f&
+_^ZfYf[
+cSR6
+T)fSf6
+u5SR6
+fPf6
+D	f@6
+D.fX
+XfS6
+D7f6
+t&f6
+fSfQRVW
+G	fSfd
+ tVWV
+rhfd
+w%f&
+_^ZfYf[
+XY_&
+E $f&
+E$PCI f&
+E(NVMef&
+E,    S
+t".8
+}2[&
+U8W3
+SQRW
+_ZY[
+ tLW
+tKf&
+fPfSfV
+f^f[fX
+Dell Inc.
+2.2.0
+04/14/2020
+DELLP
+OG33
+Precision
+Dell Inc.
+Precision 5820 Tower
+0738
+HPQ5G33
+Dell Inc.
+06JWJY
+/HPQ5G33/CNFCW009CT00X5/
+Dell Inc.
+HPQ5G33
+Desktop
+Dell System
+1[0738]
+3[1.0]
+12[www.dell.com]
+14[1]
+15[3]
+27[38560878255]
+Default string
+DIMM3
+NO DIMM
+NO DIMM
+NO DIMM
+NO DIMM
+DIMM7
+NO DIMM
+NO DIMM
+NO DIMM
+NO DIMM
+DIMM1
+NO DIMM
+NO DIMM
+NO DIMM
+NO DIMM
+DIMM5
+NO DIMM
+NO DIMM
+NO DIMM
+NO DIMM
+DIMM4
+Micron
+25B9A674
+0F120161
+18ASF2G72PDZ-2G9E1  
+DIMM8
+NO DIMM
+NO DIMM
+NO DIMM
+NO DIMM
+DIMM2
+Micron
+25B9A52B
+0F120161
+18ASF2G72PDZ-2G9E1  
+DIMM6
+NO DIMM
+NO DIMM
+NO DIMM
+NO DIMM
+PS2Mouse
+PS2Keyboard
+	Serial
+Line-out
+Line-in/Mic
+Rear USB 3.0
+Rear USB 3.0
+Rear USB 3.0
+Rear USB 3.0
+Rear USB 3.0
+Rear USB 3.0
+!Mini-SAS PCIe SSD-0
+!Mini-SAS PCIe SSD-1
+ SATA-0
+ SATA-1
+ SATA-2
+ SATA-3
+ SATA-4
+ SATA-5
+ ODD-0
+ ODD-1
+FAN_CPU0
+FAN_SYS0
+FAN_SYS1
+FAN_SYS2
+FAN_HDD
+INTRUDER
+INT_SPKR
+HDD_TEMP
+FRONTPANEL
+Microphone
+FRONTPANEL
+Headphone
+USB3_FRONT
+Front USB 3.0
+USB3_FRONT
+Front USB 3.0
+USB3_FRONT
+Front USB 3.0
+USB3_FRONT
+Front USB 3.0
+USB2_FLEX
+Front USB 2.0
+INT_USB2
+SLOT1
+SLOT2
+SLOT3
+SLOT4
+SLOT5
+SLOT6
+"Intel LOM"
+"Intel HD Audio"
+Intel LOM
+Intel HD Audio
+L1-Cache
+L2-Cache
+L3-Cache
+CPU0
+Intel(R) Corporation
+Intel(R) Xeon(R) W-2245 CPU @ 3.90GHz
+UNKNOWN
+CPU0 FAN
+SYS0 FAN
+SYS1 FAN
+SYS2 FAN
+HDD FAN
+PSU FAN
+CPU0 PECI
+MEM_TOP PECI
+ALL_VR
+PCIE_AMB
+                                        
+20200626
+20200723
+"Intel Corp."
+"2089"
+L@L@
+$AMT
+vPro
+en|US|iso8859-1
+Reference Code - SKL PCH
+PCH-CRID Status
+Disabled
+PCH-CRID Original Value
+PCH-CRID New Value
+OPROM - RST - RAID
+SKL PCH H Bx Hsio Version
+SKL PCH H Dx Hsio Version
+KBL PCH H Ax Hsio Version
+SKL PCH LP Bx Hsio Version
+SKL PCH LP Cx Hsio Version
+Firmware Version Info
+$MEI
+MEI1
+MEI2
+MEI3
+P6: HL-DT-ST DVD+/-RW GU90N
+sofP
+fXtG.
+Ff.:
+ffj@
+fQfR
+fZfY
+fXfPf
+t j@
+ t[WV
+r[f&
+fWfV
+f^f_r
+fWfV
+f^f_r
+r!f3
+fVfWg&
+v=g&
+fff_
+D ,f
+D$PCI f
+D(SATAf
+D,    &
+D1X$
+~fAr$
+RPf^X
+?fIf
+ fVf
+fVPf
+Yf^t
+@fVf
+~.f3
+RfVfWRfQfV
+fQXY
+RPfXf
+fZr$f
+f_f^Z
+tQf&
+fHf%
+fVf3
+f^fXf
+QfPf
+~fAr
+fXf;
+r	f#
+RfWfV
+fffar!
+fffar
+Yf^f_Z
+RfWfV
+fffar
+fffar
+Yf^f_Z
+fRfVfW
+f_f^fZ
+fPf3
+fWfQfRd
+fZfYf_
+fWfSfQ
+fXfPf%
+fZfYf[f_fQfS
+faf[fY
+fPfSfQfTfUfVfW
+f_f^f]f\fYf[fX
+f_f^f]f\fYf[fX
+uqRd
+ZsffP
+fXt>.
+fRfPfRd
+ht&.
+fWfQfRd
+fZfYf_
+fYfWfSfQ
+fXfPf%
+(fXfP
+fYf[f_
+fZfYf[f_fQfS
+u(Rd
+fWfQfRd
+fZfYf_rDf
+fVWQ
+Y_f^
+V)fPfSfV
+h9+j
+f^f[fXZY
+fPfSfV
+hU+Ph
+f^f[fX
+.:$u
+Diskette Drive
+Internal HDD
+Diskette Drive
+USB Storage Device
+InternalCD/DVD/CD-RW Drive
+USB StorSystem eSATA Dock Bay
+CD/DVD/COnboard NIC
+System eSATA Doc
+IFE$
+$PMM
+=1f&
+G=fHf
+=1f&
+fVf.
+f^h@
+Z	r<&
+fVf.
+fSh@
+f[f_
+_SM_=
+_DMI_
+_SM3_u
+fQRPf
+RPfXZfY
+s>f.
+f`f&
+QfSg
+tVfGtRfOf
+>_SuFg
+M_u>g
+_Du6g
+MIu.g
+_u'fVf
+f`f&
+faf`
+$PnP
+$BIGQ
+fPSRfV
+f^Z[fX
+fPSRS
+Z[fX
+WVQh
+Hr^fX
+`h k^j
+f`h@
+RQS&
+[YBB
+_tE&
+`VUWQfP
+f=MSDOt-f=MSWIt%f=NTFSt
+FAT t
+FAT3t
+YRPfXf3
+`&	O
+OIEMAG  IZ PTAPA IlFpoyp
+@0080 a  IHATHC IDC-R7703                        iPnoee rDCR-MOA ATIP
+[GAA
+f`h@
+[YQ(
+f`f.
+Reboot and Select proper Boot device
+or Insert Boot Media in selected Boot device and press a key
+ECC Error
+Parity Error
+Machine Check Error
+Invalid partition table!
+$ASF
+RfZe
+QSfP
+fX[Y
+Xu,fP^
+=$Pu.f
+=IRu%
+ VQ2
+fSfVf3
+f^f[
+PAMSuJf.
+t"f3
+t"f^Vf
+fCf.;
+F(fUXX
+f`fQW&
+_fXr+f
+YfSfQ3
+fYf[@
+t3g&
+u	g&
+@t6Hf
+XZfY_
+USB Storage
+Floppy
+Hard Disk
+CDROM
+s#g&
+S!g&
+hA$f]
+h7$f]
+h0$f]
+<gf&
+fPg&
+C g&
+C!g&
+C"g&
+C#g&
+fHgf&
+C=gf&
+CAfX
+QSRh
+Legacy SCSI Card
+Legacy Net Card
+PCI ROM Setup, B00 D00 F0
+hg+fX
+&f=Y
+&f=Y
+RPfXf
+V!f`
+faZg&9
+t[g&
+<u/e
+x+g&
+F P$
+	Bf[YI
+EYIu
+tGg&
+F P$
+WVQS
+[Y^_
+t9<.t
+C<@t
+fPfS
+f[fX
+6#6(6-6
+fUfQf
+fYf]
+VfQfSf
+fCt+fK
+fQXZf[fY^
+VQfSf
+f[Y^
+f[fUXZ
+VfWfSfRfPQ
+t	f;l
+fSf3
+f[s%
+fXfZfSXZf[f_^
+VWfUfSfQf
+f@f+
+r3f;
+fHf9
+fHf;
+f9-s
+fYf[f]_^
+fPf#
+VWfPfRf
+f@f+
+fHf9
+fHf;
+f9-s
+f@f+
+fZfX_^
+fVfWf
+rJf+
+fQgf&
+f_f^
+"<@<
+:<b=e=
+$u(<
+PAMSu
+fQfW2
+f_fY
+s5fSf.
+^C.;
+UT]r
+>{@9Ap@p@p@p@p@p@
+r7QR
+YXu/
+D&D`D
+uQr1
+d$!<!Xu
+X<Tu
+<Tu3
+<7u6
+bK<Fv4<Vs0
+K<Fv
+@<:t
+ <Et
+xyz{|}~
+ !"#$%&
+,-./012
+hijklmnopq
+^_`abcdefgEFw
+ZbZ.zN
+2.jJ2O
+;;K;3K
+!@#$%^&*()_+
+QWERTYUIOP{}
+ASDFGHJKL:"~
+|ZXCVBNM<>?
+TUVWXYZ[\]
+789-456+1230.
+*56789?/
+1234567890-=
+	qwertyuiop[]
+asdfghjkl;'`
+\zxcvbnm,./
+;<=>?@ABCD
+GHI-K
+M+OPQRS
+ZbZ.zN
+2.jJ2O
+;;K;3K
+xyz{|}~
+ !"#$%&
+,-./012
+OgOcO\OSOIO?O/O"O
+PRQS
+XXXX^_
+O-P;P
+P$QFQ
+(<Pd
+XuYP3
+d$!<!
+SQh@
+HHt]Ht?HtlHt
+ZXY<
+rZY[
+rqf`
+]d;D
+XPS3
+uzf&
+>p}NTLDu	&
+}Rete
+t S&
+WfUVWf]
+nf]_
+u	f&
+_DELL_GPE_
+]+]8]E]R]VRQ3
+@YZ^
+r.SfP3
+u0PS3
+HARDe
+DISKe
+FLOPe
+>	3f
+CDROe
+6'3f
+>#3f
+>'2f
+>x2f
+PSQe
+PSQe
+fPVj
+kf&9
+_fYZrn
+tlw1
+<PCIRu
+fPSQVh
+^Y[fX
+fSfQj
+fYf[
+SQV3
+hkf&
+ZXr\f3
+fVfR
+>$PnPu
+fZf^
+UWPQ
+E< r
+YX_]
+kkPS
+Y>8V
+ kRP.
+DCuAf
+s;f.
+T(fa
+ODD$
+f`fS
+V[f^
+DMA_f
+DIAR
+hxo.
+$FHu
+D ,&
+D$ISA &
+D$PCI 
+D1X$
+D2S&
+D3[&
+D(ATA f
+D,    &
+D(SATA
+D+PIV2
+6HrPV
+6LrPV
+6PrPV
+6TrPV
+6XrPV
+6\rPV
+6`rPV
+6drPV
+6hrPV
+6lrPV
+6prPV
+6trPV
+LPQRSVW
+2w(.
+H	F0
+_^[ZYX
+t t0tOtrt"s"s
+t0u\uku
+v+s"s"s
+w.w"s"sOw{w"s"s"s
+r&PR
+r!PR
+VRQP
+XYZ^
+RQSPP3
+2ug&
+X[YZ
+XtIfRfSfPP
+XRPfXf
+f[fZ
+?RPP
+&;?u
+X[u0
+WVfRQP
+1|u&
+XYfZ^_
+rpfSPf3
+.:=t	
+Yr Q
+ t-f&
+M& #&
+fVfSf#
+f[f^v9f
+PQRSUVW
+_^][ZYX
+]+]E]
+$Ot.
+	Ot"
+t ZR2
+Zf[f
+fCf+
+WfPfQPV
+$?PR
+RPf^ZXYf
+fSfQ
+f^fYf[
+SQP&
+Booting from CDROM with Multiple Boot Image
+Select Boot Image  :
+No Emulation Image :
+1.2MB  Floppy Image:
+1.44MB Floppy Image:
+2.88MB Floppy Image:
+Hard Disk Image    :
+Unknown Image      :
+r4fW_
+CD00u#&
+X,0t
+rAfPfV
+f@f+
+SRSd
+fSfQfRfVfWS
+f_f^fZfYf[
+PfSfQfVfW
+f_f^fYf[X
+fPRQWV
+_YZfX
+faf`f3
+fSf3
+f[fX
+PWf3
+ZRP2
+PRWV
+[$`< u
+PQRV
+ZXY[
+PQRWWV
+_ZYX
+_rK2
+t.XP
+t.XP
+r;RP
+f/j@
+0Xj@
+RPfXf
+RPf[
+_f^r,PfSXZ
+RPf[
+f.fP
+F	f;
+PfSXZ
+RPf[
++][Z
+F.j@
+fPfQP
+RPf^ZXYf
+fYfX
+RPf[f
+faf`f3
+faf`f3
+faf`f3
+faf`f3
+f`f3
+fSQW
+RPf[
+fSXZ
+fXf+
+f@f&;E
+_Yf[
+f/h@
+N	j@
+V&j@
+RPQS
+fVfS
+fX^r,f;
+f[f^X[YZ
+f[f^XXXZ
+F&:G
+&;?u
+F.Xj@
+RPfXf
+RPf[Xf
+INT13-1.3 
+.;<t
+.:$u
+$CFD
+9fUf
+%fUf
+SQRVW
+_^ZY[
+fSQRVW
+Xr[g
+tDf.
+_^ZYf[
+PCI 
+PfQW
+_fYX
+fSfQfV
+f^fYf[
+$IRT
+8C<C@CDCh@
+08.00.10
+$PIR
+SRVU
+]^Z[
+fSfPg
+fSfPg
+fSfPVW
+_^fX
+PCMPd
+CCBX3   
+DELL  
+PCI   
+PCI   
+dPCI   
+PCI   
+PCI   
+PCI   
+PCI   
+ISA   
+ePCI   
+_MP_p
+RSD PTR UDELL  
+IBM COMPATIBLE IBM IS A TRADEMARK OF INTERNATIONAL BUSINESS MACHINES CORP.
+Dell System
+DELL_PROJECT_NAME
+(C)1985-2014,American Megatrends, Inc.All Rights Reserved.
+$BV#
+$DEL8
+R:EF8
+ u/P.
+f`f3
+fJf#
+fQf3
+fYf.
+@t$j@
+@((PP((PP,(-)*.
+AMIBIOS 080010
+10/30/19(C)2010 American Megatrends, Inc. All Rights Reserved
+(C)2010 American Megatrends, Inc.
+63-0100-000001-00101111-103019-Chipset
+000-0-0000-00-00-0000-00-00-000
+000-0-0000-00-00-0000-00-00-00-0
+_TG_0AAAA000
+AMIBIOS(C)2010 American Megatrends, Inc.                                      
+BIOS Date: 04/14/20 21:16:18 Ver: 2.2.0
+CCCC
+????
+<<<<
+~BBBB~
+3?00p
+x0lllll
+<`<ff<
+0000
+0000
+8l8p
+nf|fn
+nfffn
+b`x`b
+b`x``
+flxxl
+````f
+ff|``
+ff|xl
+ffffff<
+fffff<
+l88l
+fff<
+<00000<
+```|ff
+``|fff
+p0008
+`flxlf
+p000008
+ffff
+<fff<
+ff|`
+v```
+0x004
+fff<
+(C)2014AMI,770-246-8600
+10/30/19
