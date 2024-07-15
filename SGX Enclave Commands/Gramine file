@@ -1,0 +1,28 @@
+loader.preload = "file:libsysdb.so|file:libgramine-sgx.so"
+
+# The command to run the Python interpreter and your script
+loader.exec = "file:/usr/bin/python3"
+loader.argv = ["/usr/bin/python3", "/path/to/your/script.py"]
+
+sgx.enclave_size = "1G"
+sgx.thread_num = 4
+
+# Set the paths for the application
+fs.mounts = [
+    { path = "/", uri = "file:/", type = "chroot" },
+    { path = "/usr", uri = "file:/usr" },
+    { path = "/path/to/your", uri = "file:/path/to/your", type = "chroot" }
+]
+
+# Environment variables (if needed)
+loader.env = [
+    "PYTHONHOME=/usr",
+    "PYTHONPATH=/path/to/your",
+]
+
+sgx.allowed_files = [
+    { path = "/usr/bin/python3", access = "r-x" },
+    { path = "/usr/lib", access = "r--" },
+    { path = "/lib", access = "r--" },
+    { path = "/home/gat/intel/sgx_project/Enclave/script.py", access = "r-x" }
+]
